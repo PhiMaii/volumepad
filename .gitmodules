@@ -1,0 +1,12 @@
+[submodule "software/desktop-app"]
+	path = software/desktop-app
+	url = https://github.com/PhiMaii/volumepad-link.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/PhiMaii/volumepad-firmware.git
+[submodule "electronics"]
+	path = electronics
+	url = https://github.com/PhiMaii/volumepad-electronics.git
+[submodule "software/streamdeck-plugin"]
+	path = software/streamdeck-plugin
+	url = https://github.com/PhiMaii/volumepad-streamdeck-plugin.git
